@@ -1,10 +1,4 @@
-```
-           __   ___   _
-  ___ ___ / /  |_  | (_)_ ___
- (_-</ // / _ \/ __/ / / _ ` _ \
-/___/\_,_/_.__/____/_/ / .__/ .__/
-                   |__/_/  /_/
-```
+https://github.com/mohidqx/sub2ip/blob/main/interface.png
 <p align="center">
   <b>sub2ip</b> — blazing fast subdomain → IP resolver<br>
   <code>@mohidqx</code>&nbsp;&nbsp;|&nbsp;&nbsp;<code>v1.2.0</code>
@@ -455,7 +449,7 @@ sub2ip -f subs.txt -s -oM -o targets.txt --no-progress
 | 🟣 Magenta `[WILDCARD]` | Wildcard domain |
 
 ---
-
+https://github.com/mohidqx/sub2ip/blob/main/interface.png
 ## Built-in Resolvers
 
 Includes 15 fast public resolvers: Google, Cloudflare, Quad9, OpenDNS, Verisign, AdGuard, Alternate DNS, CleanBrowsing — automatically rotated.
