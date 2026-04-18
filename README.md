@@ -1,7 +1,7 @@
 <img src=https://github.com/mohidqx/sub2ip/blob/main/interface.png> </img>
 <p align="center">
   <b>sub2ip</b> — blazing fast subdomain → IP resolver<br>
-  <code>@mohidqx</code>&nbsp;&nbsp;|&nbsp;&nbsp;<code>v1.2.0</code>
+  <code>@mohidqx</code><code>@2.0²·⁰</code>&nbsp;&nbsp;|&nbsp;&nbsp;<code>v1.2.0</code>
 </p>
 
 ---
